@@ -1,7 +1,7 @@
 # Data-Science-Projects
 
 <p align="center">
-  <img src="banner.jpg" >
+  <img src="banner.jpg"  >
 </p>
 
 # Audrey Siqueira
