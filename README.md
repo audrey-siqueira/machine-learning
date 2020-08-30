@@ -20,6 +20,6 @@ Aiming participation in innovative and technological projects.
 
 ## Projects:
 * **Salary Prediction using Simple Linear Regression:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
+* **Investing in Startups using Multiple Linear Regression:** https://bit.ly/2Li5pzY
 
 ---
