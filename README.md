@@ -19,7 +19,7 @@ Aiming participation in innovative and technological projects.
 
 
 ## Projects:
-* **Salary Prediction using Simple Linear Regression:** https://bit.ly/2L2cMwy
-* **Investing in Startups using Multiple Linear Regression:** https://bit.ly/2Li5pzY
+* **Salary Prediction using Simple Linear Regression:** https://bit.ly/3gHBWgO
+* **Investing in Startups using Multiple Linear Regression:** 
 
 ---
