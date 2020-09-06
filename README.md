@@ -29,21 +29,28 @@ Aiming participation in innovative and technological projects.
   * Solution:
 * **Python If-Else:** https://bit.ly/3gHBWgO
   * Solution:
-
 * **Arithmetic Operators:** https://bit.ly/3gHBWgO
   * Solution:
 * **Python: Division:** https://bit.ly/3gHBWgO
   * Solution:
 * **Loops:** https://bit.ly/3gHBWgO
+  * Solution:
 * **Write a function:** https://bit.ly/3gHBWgO
+  * Solution:
 * **Print Function:** https://bit.ly/3gHBWgO
+  * Solution:
 
 **BASIC DATA TYPES**
 * **List Comprehensions:** https://bit.ly/3gHBWgO
+  * Solution:
 * **Nested Lists:** https://bit.ly/3gHBWgO
+  * Solution:
 * **Finding the percentage:** https://bit.ly/3gHBWgO
+  * Solution:
 * **Lists:** https://bit.ly/3gHBWgO
+  * Solution:
 * **Tuples:** https://bit.ly/3gHBWgO
+  * Solution:
 
 
 ---
