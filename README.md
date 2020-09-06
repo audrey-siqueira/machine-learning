@@ -22,4 +22,15 @@ Aiming participation in innovative and technological projects.
 * **Salary Prediction using Simple Linear Regression:** https://bit.ly/3gHBWgO
 * **Investing in Startups using Multiple Linear Regression:** https://bit.ly/34XUVBF 
 
+
+## Python:
+* **Say "Hello, World!" With Python:** 
+https://bit.ly/3gHBWgO
+* **Salary Prediction using Simple Linear Regression:** https://bit.ly/3gHBWgO
+* **Salary Prediction using Simple Linear Regression:** https://bit.ly/3gHBWgO
+* **Salary Prediction using Simple Linear Regression:** https://bit.ly/3gHBWgO
+* **Salary Prediction using Simple Linear Regression:** https://bit.ly/3gHBWgO
+* **Salary Prediction using Simple Linear Regression:** https://bit.ly/3gHBWgO
+* **Salary Prediction using Simple Linear Regression:** https://bit.ly/3gHBWgO
+
 ---
