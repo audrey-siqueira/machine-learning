@@ -25,19 +25,19 @@ Aiming participation in innovative and technological projects.
 
 ## Python:
 **INTRODUCTION**
-* **Say "Hello, World!" With Python:** 
+* **Say "Hello, World!" With Python:**https://www.hackerrank.com/challenges/py-hello-world/problem 
   * Solution:
-* **Python If-Else:** https://bit.ly/3gHBWgO
+* **Python If-Else:**https://www.hackerrank.com/challenges/py-if-else/problem
   * Solution:
-* **Arithmetic Operators:** https://bit.ly/3gHBWgO
+* **Arithmetic Operators:**https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
   * Solution:
-* **Python: Division:** https://bit.ly/3gHBWgO
+* **Python-Division:**https://www.hackerrank.com/challenges/python-division/problem
   * Solution:
-* **Loops:** https://bit.ly/3gHBWgO
+* **Loops:**https://www.hackerrank.com/challenges/python-loops/problem
   * Solution:
-* **Write a function:** https://bit.ly/3gHBWgO
+* **Write a function:**https://www.hackerrank.com/challenges/write-a-function/problem
   * Solution:
-* **Print Function:** https://bit.ly/3gHBWgO
+* **Print Function:**https://www.hackerrank.com/challenges/python-print/problem
   * Solution:
 
 **BASIC DATA TYPES**
