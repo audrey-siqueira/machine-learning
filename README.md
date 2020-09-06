@@ -26,31 +26,31 @@ Aiming participation in innovative and technological projects.
 ## Python:
 **INTRODUCTION**
 * **Say "Hello, World!" With Python:** https://www.hackerrank.com/challenges/py-hello-world/problem 
-  * Solution:
+  * Solution: https://github.com/audrey-siqueira/Python/blob/master/Say_%22Hello%2C_World!%22_With_Python.ipynb
 * **Python If-Else:** https://www.hackerrank.com/challenges/py-if-else/problem
-  * Solution:
+  * Solution: https://github.com/audrey-siqueira/Python/blob/master/Python_If_Else.ipynb
 * **Arithmetic Operators:** https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
-  * Solution:
+  * Solution: https://github.com/audrey-siqueira/Python/blob/master/Arithmetic_Operators.ipynb
 * **Python-Division:** https://www.hackerrank.com/challenges/python-division/problem
-  * Solution:
+  * Solution: https://github.com/audrey-siqueira/Python/blob/master/Python_Division.ipynb
 * **Loops:** https://www.hackerrank.com/challenges/python-loops/problem
-  * Solution:
+  * Solution: https://github.com/audrey-siqueira/Python/blob/master/Loops.ipynb
 * **Write a function:** https://www.hackerrank.com/challenges/write-a-function/problem
-  * Solution:
+  * Solution: https://github.com/audrey-siqueira/Python/blob/master/Write_a_function.ipynb
 * **Print Function:** https://www.hackerrank.com/challenges/python-print/problem
-  * Solution:
+  * Solution: https://github.com/audrey-siqueira/Python/blob/master/Print_Function.ipynb
 ##
 **BASIC DATA TYPES**
 * **List Comprehensions:** https://www.hackerrank.com/challenges/list-comprehensions/problem
-  * Solution:
+  * Solution: https://github.com/audrey-siqueira/Python/blob/master/List_Comprehensions.ipynb
 * **Nested Lists:** https://www.hackerrank.com/challenges/nested-list/problem
-  * Solution:
+  * Solution: https://github.com/audrey-siqueira/Python/blob/master/Nested_Lists.ipynb
 * **Finding the percentage:** https://www.hackerrank.com/challenges/finding-the-percentage/problem
-  * Solution:
+  * Solution: https://github.com/audrey-siqueira/Python/blob/master/Finding_the_percentage.ipynb
 * **Lists:** https://www.hackerrank.com/challenges/python-lists/problem
-  * Solution:
+  * Solution: https://github.com/audrey-siqueira/Python/blob/master/Lists.ipynb
 * **Tuples:** https://www.hackerrank.com/challenges/python-tuples/problem
-  * Solution:
+  * Solution: https://github.com/audrey-siqueira/Python/blob/master/Tuples.ipynb
 
 
 ---
