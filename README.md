@@ -25,12 +25,22 @@ Aiming participation in innovative and technological projects.
 
 ## Python:
 **INTRODUCTION**
-* **Say "Hello, World!" With Python:** https://bit.ly/3gHBWgO
+* **Say "Hello, World!" With Python:** 
+    Problem:
+    Solution:
 * **Python If-Else:** https://bit.ly/3gHBWgO
 * **Arithmetic Operators:** https://bit.ly/3gHBWgO
 * **Python: Division:** https://bit.ly/3gHBWgO
 * **Loops:** https://bit.ly/3gHBWgO
 * **Write a function:** https://bit.ly/3gHBWgO
 * **Print Function:** https://bit.ly/3gHBWgO
+
+**BASIC DATA TYPES**
+* **List Comprehensions:** https://bit.ly/3gHBWgO
+* **Nested Lists:** https://bit.ly/3gHBWgO
+* **Finding the percentage:** https://bit.ly/3gHBWgO
+* **Lists:** https://bit.ly/3gHBWgO
+* **Tuples:** https://bit.ly/3gHBWgO
+
 
 ---
