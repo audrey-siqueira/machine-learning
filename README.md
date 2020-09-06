@@ -24,13 +24,13 @@ Aiming participation in innovative and technological projects.
 
 
 ## Python:
-* **Say "Hello, World!" With Python:** 
-https://bit.ly/3gHBWgO
-* **Salary Prediction using Simple Linear Regression:** https://bit.ly/3gHBWgO
-* **Salary Prediction using Simple Linear Regression:** https://bit.ly/3gHBWgO
-* **Salary Prediction using Simple Linear Regression:** https://bit.ly/3gHBWgO
-* **Salary Prediction using Simple Linear Regression:** https://bit.ly/3gHBWgO
-* **Salary Prediction using Simple Linear Regression:** https://bit.ly/3gHBWgO
-* **Salary Prediction using Simple Linear Regression:** https://bit.ly/3gHBWgO
+**INTRODUCTION:**
+* **Say "Hello, World!" With Python:** https://bit.ly/3gHBWgO
+* **Python If-Else:** https://bit.ly/3gHBWgO
+* **Arithmetic Operators:** https://bit.ly/3gHBWgO
+* **Python: Division:** https://bit.ly/3gHBWgO
+* **Loops:** https://bit.ly/3gHBWgO
+* **Write a function:** https://bit.ly/3gHBWgO
+* **Print Function:** https://bit.ly/3gHBWgO
 
 ---
