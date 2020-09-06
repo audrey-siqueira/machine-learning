@@ -26,8 +26,8 @@ Aiming participation in innovative and technological projects.
 ## Python:
 **INTRODUCTION**
 * **Say "Hello, World!" With Python:** 
-    * Problem:
-    * Solution:
+-Problem:
+-Solution:
 * **Python If-Else:** https://bit.ly/3gHBWgO
 * **Arithmetic Operators:** https://bit.ly/3gHBWgO
 * **Python: Division:** https://bit.ly/3gHBWgO
