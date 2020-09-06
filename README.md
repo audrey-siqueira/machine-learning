@@ -39,17 +39,17 @@ Aiming participation in innovative and technological projects.
   * Solution:
 * **Print Function:** https://www.hackerrank.com/challenges/python-print/problem
   * Solution:
-
+##
 **BASIC DATA TYPES**
-* **List Comprehensions:** https://bit.ly/3gHBWgO
+* **List Comprehensions:** https://www.hackerrank.com/challenges/list-comprehensions/problem
   * Solution:
-* **Nested Lists:** https://bit.ly/3gHBWgO
+* **Nested Lists:** https://www.hackerrank.com/challenges/nested-list/problem
   * Solution:
-* **Finding the percentage:** https://bit.ly/3gHBWgO
+* **Finding the percentage:** https://www.hackerrank.com/challenges/finding-the-percentage/problem
   * Solution:
-* **Lists:** https://bit.ly/3gHBWgO
+* **Lists:** https://www.hackerrank.com/challenges/python-lists/problem
   * Solution:
-* **Tuples:** https://bit.ly/3gHBWgO
+* **Tuples:** https://www.hackerrank.com/challenges/python-tuples/problem
   * Solution:
 
 
