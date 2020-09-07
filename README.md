@@ -51,6 +51,24 @@ Aiming participation in innovative and technological projects.
   * Solution: https://bit.ly/2Re6zQN
 * **Tuples:** https://www.hackerrank.com/challenges/python-tuples/problem
   * Solution: https://bit.ly/35fPJZN
+##
+**STRINGS**
+* **String Split and Join:** https://www.hackerrank.com/challenges/python-string-split-and-join/problem
+  * Solution: https://bit.ly/3jP4IOv 
+* **What's Your Name?:** https://www.hackerrank.com/challenges/whats-your-name/problem
+  * Solution: https://bit.ly/3jYpiMx
+* **Mutations:** https://www.hackerrank.com/challenges/python-mutations/problem
+  * Solution: https://bit.ly/3ic9OUI
+* **Find a String:** https://www.hackerrank.com/challenges/find-a-string/problem
+  * Solution: https://bit.ly/3jTLvLG
+* **String Validators:** https://www.hackerrank.com/challenges/string-validators/problem
+  * Solution: https://bit.ly/2F9zLFB
+* **Text Alignment:** https://www.hackerrank.com/challenges/text-alignment/problem
+  * Solution: https://bit.ly/3iaJ8n6
+* **Text Wrap:** https://www.hackerrank.com/challenges/text-wrap/problem
+  * Solution: https://bit.ly/3jM9IDo
+
+
 
 
 ---
