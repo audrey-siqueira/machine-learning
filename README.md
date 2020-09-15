@@ -79,6 +79,33 @@ Aiming participation in innovative and technological projects.
   * Solution: https://bit.ly/3klbZ8V
 * **Merge the Tools:** https://www.hackerrank.com/challenges/merge-the-tools/problem
   * Solution: https://bit.ly/3ixq6aR
+  
+ ##
+**Sets**
+* **No Idea!:** https://www.hackerrank.com/challenges/no-idea/problem
+  * Solution: https://bit.ly/2RqM0AC
+* **Symmetric Difference:** https://www.hackerrank.com/challenges/symmetric-difference/problem
+  * Solution: https://bit.ly/35HVK1A 
+* **Set.add():** https://www.hackerrank.com/challenges/py-set-add/problem
+  * Solution: https://bit.ly/3c8uaf9 
+* **Set .discard(), .remove() & .pop():** https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem
+  * Solution: https://bit.ly/33ur557 
+* **Set .union() Operation:** https://www.hackerrank.com/challenges/py-set-union/problem
+  * Solution: https://bit.ly/2RuAmVf
+* **Set .intersection() Operation:** https://www.hackerrank.com/challenges/py-set-intersection-operation/problem
+  * Solution: https://bit.ly/2FxstvV
+* **Set .difference() Operation:** https://www.hackerrank.com/challenges/py-set-difference-operation/problem
+  * Solution: https://bit.ly/3iApiSm
+* **Set .symmetric_difference() Operation:** https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem
+  * Solution: https://bit.ly/3ki2x6c
+* **Set Mutations:** https://www.hackerrank.com/challenges/py-set-mutations/problem
+  * Solution: https://bit.ly/32yRJul
+* **The Captain's Room:** https://www.hackerrank.com/challenges/py-the-captains-room/problem
+  * Solution: https://bit.ly/3mjDDFf 
+* **Check Subset:** https://www.hackerrank.com/challenges/py-check-subset/problem
+  * Solution: https://bit.ly/3hw8WZH
+* **Check Strict Superset:** https://www.hackerrank.com/challenges/py-check-strict-superset/problem
+  * Solution: https://bit.ly/2Rv4a4k 
 
 
 
