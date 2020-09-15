@@ -67,6 +67,18 @@ Aiming participation in innovative and technological projects.
   * Solution: https://bit.ly/3iaJ8n6
 * **Text Wrap:** https://www.hackerrank.com/challenges/text-wrap/problem
   * Solution: https://bit.ly/3jM9IDo
+* **Designer Door Mat:** https://www.hackerrank.com/challenges/designer-door-mat/problem
+  * Solution: https://bit.ly/2RsQSFd
+* **String Formatting:** https://www.hackerrank.com/challenges/python-string-formatting/problem
+  * Solution: https://bit.ly/2FzFTHE 
+* **Alphabet Rangoli:** https://www.hackerrank.com/challenges/alphabet-rangoli/problem
+  * Solution: https://bit.ly/3hxBdzb
+* **Capitalize!:** https://www.hackerrank.com/challenges/capitalize/problem
+  * Solution: https://bit.ly/3hCPUAN
+* **The Minion Game:** https://www.hackerrank.com/challenges/the-minion-game/problem
+  * Solution: https://bit.ly/3klbZ8V
+* **Merge the Tools:** https://www.hackerrank.com/challenges/merge-the-tools/problem
+  * Solution: https://bit.ly/3ixq6aR
 
 
 
