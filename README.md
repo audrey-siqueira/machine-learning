@@ -21,14 +21,14 @@ Aiming participation in innovative and technological projects.
 ## Projects:
 
 **CLASSIFICATION**
-**Targeting ADS Solutions**
-* **Logistic Regression:** https://bit.ly/3gHBWgO
-* **K-Nearest Neighbors:**
-* **Support Vector Machine:**
-* **Kernel SVM:**
-* **Naive Bayes:**
-* **Decision Tree Classification:** 
-* **Random Forest Classification:** 
+* **Targeting ADS Solutions**
+* Logistic Regression:https://bit.ly/3gHBWgO
+* K-Nearest Neighbors:
+* Support Vector Machine:
+* Kernel SVM:
+* Naive Bayes:
+* Decision Tree Classification: 
+* Random Forest Classification: 
 
 
 ## Python:
