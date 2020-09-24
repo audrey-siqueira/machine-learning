@@ -19,7 +19,7 @@ Aiming participation in innovative and technological projects.
 
 
 ## Projects:
-# CLASSIFICATION:
+### CLASSIFICATION:
 **Targeting ADS Solutions**
 * Logistic Regression: https://bit.ly/3ctWsAP
 * K-Nearest Neighbors: https://bit.ly/3mPewtY
