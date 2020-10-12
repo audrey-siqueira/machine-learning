@@ -15,7 +15,7 @@
 
 **Salary Prediction (Case 2):**
 * Polynomial Regression: https://bit.ly/3ctWsAP
-* Support Vector Regression: https://bit.ly/3ctWsAP
+* Support Vector Regression: https://bit.ly/3dlCusx
 * Decision Tree Regression: https://bit.ly/3ctWsAP
 * Random Forest Regression: https://bit.ly/3ctWsAP
 
@@ -41,8 +41,8 @@
 
 ### Reinforcement Learning:
 **Optimizing ADS Clicks:**
-* Thompson Sampling: https://bit.ly/3mPewtY
-* Upper Confidence Bound (UCB): https://bit.ly/3mPewtY
+* Thompson Sampling: https://bit.ly/3iTnTG3
+* Upper Confidence Bound (UCB): https://bit.ly/30W8u1C
 
 ## Natural Language Processing Projects:
 
