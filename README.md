@@ -58,4 +58,10 @@ Aiming participation in innovative and technological projects.
 * Thompson Sampling: https://bit.ly/3mPewtY
 * Upper Confidence Bound (UCB): https://bit.ly/3mPewtY
 
+## Natural Language Processing Projects:
+
+### NLP:
+**Analyzing Restaurant Reviews:**
+* Bag of Words: https://bit.ly/3ctWsAP  
+
 ---
