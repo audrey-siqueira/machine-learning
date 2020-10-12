@@ -82,5 +82,20 @@ Aiming participation in innovative and technological projects.
 * Linear Discriminant Analysis (LDA): https://bit.ly/3ctWsAP
 * Kernel PCA: https://bit.ly/3ctWsAP
 
+## Model Selection Projects:
+
+### Model Selection:
+**Targeting ADS using Kernel SVM:**
+* K-Fold Cross Validation and Grid Search: https://bit.ly/3ctWsAP
+
+## XGBoost Projects:
+
+### XGBoost Algorithm:
+**Breast Cancer Prediction:**
+* XGBoost: https://bit.ly/3ctWsAP
+
+
+
+
 
 ---
