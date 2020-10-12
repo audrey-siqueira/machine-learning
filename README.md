@@ -23,8 +23,10 @@ Aiming participation in innovative and technological projects.
 ### Regression:
 **Salary Prediction (Case 1)**
 * Simple Linear Regression: https://bit.ly/3ctWsAP  
+
 **Investing in Startups**
 * Multiple Linear Regression: https://bit.ly/3ctWsAP  
+
 **Salary Prediction (Case 2)**
 * Polynomial Regression: https://bit.ly/3ctWsAP
 * Support Vector Regression: https://bit.ly/3ctWsAP
