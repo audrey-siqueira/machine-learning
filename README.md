@@ -18,10 +18,22 @@ Aiming participation in innovative and technological projects.
 * [Medium]
 
 
-## Projects:
-### CLASSIFICATION:
-**Targeting ADS Solutions**
-* Logistic Regression: https://bit.ly/3ctWsAP
+## Machine Learning Projects:
+
+### Regression:
+**Salary Prediction (Case 1)**
+* Simple Linear Regression: https://bit.ly/3ctWsAP
+**Investing in Startups**
+* Multiple Linear Regression: https://bit.ly/3ctWsAP
+**Salary Prediction (Case 2)**
+* Polynomial Regression: https://bit.ly/3ctWsAP
+* Support Vector Regression: https://bit.ly/3ctWsAP
+* Decision Tree Regression: https://bit.ly/3ctWsAP
+* Random Forest Regression: https://bit.ly/3ctWsAP
+
+### Classification:
+**Targeting ADS**
+* Logistic Regression: https://bit.ly/3mPewtY
 * K-Nearest Neighbors: https://bit.ly/3mPewtY
 * Support Vector Machine: https://bit.ly/3i5Pnrj
 * Kernel SVM: https://bit.ly/33QiERK
