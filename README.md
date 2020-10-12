@@ -1,7 +1,7 @@
 # Data-Science-Projects
 
 <p align="center">
-  <img src="banner2.jpg" >
+  <img src="banner2.png" >
 </p>
 
 ## Machine Learning Projects:
