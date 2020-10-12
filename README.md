@@ -43,5 +43,19 @@ Aiming participation in innovative and technological projects.
 * Decision Tree Classification: https://bit.ly/2FWcxU4 
 * Random Forest Classification: https://bit.ly/2FYDu9F
 
+### Clustering:
+**Grouping Customers:**
+* Hierarchical Clustering: https://bit.ly/3mPewtY
+* K-Means Clustering: https://bit.ly/3mPewtY
+
+### Association Rule Learning:
+**Arrangement of Products in the Supermarket:**
+* Apriori: https://bit.ly/3mPewtY
+* Eclat: https://bit.ly/3mPewtY
+
+### Reinforcement Learning:
+**Optimizing ADS Clicks:**
+* Thompson Sampling: https://bit.ly/3mPewtY
+* Upper Confidence Bound (UCB): https://bit.ly/3mPewtY
 
 ---
