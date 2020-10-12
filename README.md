@@ -58,7 +58,7 @@
 
 ### Convolutional Neural Networks:
 **DOG/CAT Image Labeling:**
-* CNN: https://bit.ly/3ctWsAP 
+* CNN: https://bit.ly/3jTGRxB
 
 ## Dimensionality Reduction Projects:
 
