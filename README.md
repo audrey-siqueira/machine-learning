@@ -31,24 +31,24 @@
 
 ### Clustering:
 **Grouping Customers:**
-* Hierarchical Clustering: https://bit.ly/3mPewtY
-* K-Means Clustering: https://bit.ly/3mPewtY
+* Hierarchical Clustering: https://bit.ly/33RmcED
+* K-Means Clustering: https://bit.ly/2SKgPAZ
 
 ### Association Rule Learning:
 **Arrangement of Products in the Supermarket:**
-* Apriori: https://bit.ly/3mPewtY
-* Eclat: https://bit.ly/3mPewtY
+* Apriori: https://bit.ly/3jRSkxr
+* Eclat: https://bit.ly/36WYgBH
 
 ### Reinforcement Learning:
 **Optimizing ADS Clicks:**
-* Thompson Sampling: https://bit.ly/3iTnTG3
-* Upper Confidence Bound (UCB): https://bit.ly/30W8u1C
+* Thompson Sampling: https://bit.ly/36ZeTwQ
+* Upper Confidence Bound (UCB): https://bit.ly/3jVFJJJ
 
 ## Natural Language Processing Projects:
 
 ### NLP:
 **Analyzing Restaurant Reviews:**
-* Bag of Words: https://bit.ly/3ctWsAP  
+* Bag of Words: https://bit.ly/36YDYHW 
 
 ## Deep Learning Projects:
 
@@ -64,21 +64,21 @@
 
 ### Dimensionality Reduction:
 **Wine Classification using Logistic Regression:**
-* Principal Component Analysis (PCA): https://bit.ly/3ctWsAP
-* Linear Discriminant Analysis (LDA): https://bit.ly/3ctWsAP
-* Kernel PCA: https://bit.ly/3ctWsAP
+* Principal Component Analysis (PCA): https://bit.ly/33RgBhR
+* Linear Discriminant Analysis (LDA): https://bit.ly/3jT55rL
+* Kernel PCA: https://bit.ly/36XdUwZ
 
 ## Model Selection Projects:
 
 ### Model Selection:
 **Targeting ADS using Kernel SVM:**
-* K-Fold Cross Validation and Grid Search: https://bit.ly/3ctWsAP
+* K-Fold Cross Validation and Grid Search: https://bit.ly/2Fnxyab
 
 ## XGBoost Projects:
 
 ### XGBoost Algorithm:
 **Breast Cancer Prediction:**
-* XGBoost: https://bit.ly/311RU0i
+* XGBoost: https://bit.ly/3jNqQcp
 
 
 
