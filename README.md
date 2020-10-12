@@ -11,13 +11,13 @@
 * Simple Linear Regression: https://bit.ly/3lIzA4d
 
 **Investing in Startups:**
-* Multiple Linear Regression: https://bit.ly/3ctWsAP  
+* Multiple Linear Regression: https://bit.ly/2GVA7R6
 
 **Salary Prediction (Case 2):**
-* Polynomial Regression: https://bit.ly/3ctWsAP
-* Support Vector Regression: https://bit.ly/3dlCusx
-* Decision Tree Regression: https://bit.ly/3ctWsAP
-* Random Forest Regression: https://bit.ly/3ctWsAP
+* Polynomial Regression: https://bit.ly/2SU3dmt
+* Support Vector Regression: https://bit.ly/3k4t1Z2
+* Decision Tree Regression: https://bit.ly/3nCUu6B
+* Random Forest Regression: https://bit.ly/36Zchz2
 
 ### Classification:
 **Targeting ADS:**
