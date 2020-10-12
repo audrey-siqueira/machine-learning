@@ -64,4 +64,14 @@ Aiming participation in innovative and technological projects.
 **Analyzing Restaurant Reviews:**
 * Bag of Words: https://bit.ly/3ctWsAP  
 
+## Deep Learning Projects:
+
+### Artificial Neural Networks:
+**Churn Rate Prediction:**
+* ANN: https://bit.ly/3ctWsAP
+
+### Convolutional Neural Networks:
+**DOG/CAT Image Labeling:**
+* CNN: https://bit.ly/3ctWsAP 
+
 ---
