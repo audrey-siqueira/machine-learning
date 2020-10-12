@@ -8,7 +8,7 @@
 
 ### Regression:
 **Salary Prediction (Case 1):**
-* Simple Linear Regression: https://bit.ly/3ctWsAP  
+* Simple Linear Regression: https://bit.ly/3lIzA4d
 
 **Investing in Startups:**
 * Multiple Linear Regression: https://bit.ly/3ctWsAP  
