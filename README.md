@@ -21,13 +21,13 @@
 
 ### Classification:
 **Targeting ADS:**
-* Logistic Regression: https://bit.ly/3mPewtY
-* K-Nearest Neighbors: https://bit.ly/3mPewtY
-* Support Vector Machine: https://bit.ly/3i5Pnrj
-* Kernel SVM: https://bit.ly/33QiERK
-* Naive Bayes: https://bit.ly/33UeSak
-* Decision Tree Classification: https://bit.ly/2FWcxU4 
-* Random Forest Classification: https://bit.ly/2FYDu9F
+* Logistic Regression: https://bit.ly/2GZFui4
+* K-Nearest Neighbors: https://bit.ly/2GPSEP8
+* Support Vector Machine: https://bit.ly/3dssAWg
+* Kernel SVM: https://bit.ly/37b6nuP
+* Naive Bayes: https://bit.ly/34SWM95
+* Decision Tree Classification: https://bit.ly/3jT2G0c
+* Random Forest Classification: https://bit.ly/2GHtHFD
 
 ### Clustering:
 **Grouping Customers:**
