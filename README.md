@@ -20,7 +20,7 @@ Aiming participation in innovative and technological projects.
 
 ## Machine Learning Projects:
 
-### Regression
+### Regression:
 **Salary Prediction (Case 1):**
 * Simple Linear Regression: https://bit.ly/3ctWsAP  
 
@@ -33,7 +33,7 @@ Aiming participation in innovative and technological projects.
 * Decision Tree Regression: https://bit.ly/3ctWsAP
 * Random Forest Regression: https://bit.ly/3ctWsAP
 
-### Classification
+### Classification:
 **Targeting ADS:**
 * Logistic Regression: https://bit.ly/3mPewtY
 * K-Nearest Neighbors: https://bit.ly/3mPewtY
