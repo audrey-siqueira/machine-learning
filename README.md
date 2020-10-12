@@ -74,4 +74,13 @@ Aiming participation in innovative and technological projects.
 **DOG/CAT Image Labeling:**
 * CNN: https://bit.ly/3ctWsAP 
 
+## Dimensionality Reduction Projects:
+
+### Dimensionality Reduction:
+**Wine Classification using Logistic Regression:**
+* Principal Component Analysis (PCA): https://bit.ly/3ctWsAP
+* Linear Discriminant Analysis (LDA): https://bit.ly/3ctWsAP
+* Kernel PCA: https://bit.ly/3ctWsAP
+
+
 ---
