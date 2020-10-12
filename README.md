@@ -54,7 +54,7 @@
 
 ### Artificial Neural Networks:
 **Churn Rate Prediction:**
-* ANN: https://bit.ly/3ctWsAP
+* ANN: https://bit.ly/36XfOxJ
 
 ### Convolutional Neural Networks:
 **DOG/CAT Image Labeling:**
